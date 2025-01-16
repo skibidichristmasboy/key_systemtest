@@ -1,6 +1,7 @@
 --[[ Credits
     Matas#3535 @matas - Created UI
     bored#9316 @wally hub user - Helped make library1
+ertrtetreetr
 ]]
 -- // Variables
 local ws = game:GetService("Workspace")
@@ -19,9 +20,9 @@ local library = {
     ended = {},
     changed = {},
     folders = {
-        main = "pubertuslol",
-        assets = "pubertuslol/assets",
-        configs = "pubertuslol/configs"
+        main = "acri_club",
+        assets = "acri_club/assets",
+        configs = "acri_club/configs"
     },
     shared = {
         initialized = false,
